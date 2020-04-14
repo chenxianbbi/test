@@ -15,4 +15,5 @@ int main(int argc,char** argv) {
 	imshow("inputImage", src);
 	
 	test2;
+	test22;
 }
