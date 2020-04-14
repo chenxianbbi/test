@@ -2,6 +2,7 @@ int main(int argc,char** argv) {
 	src = imread("F:/OneDrive - 汕头大学/Test Temp/opencv/part03/case04.jpg");
 	
 	test1;
+	test21;
 
 	waitKey(0);
 	return 0;
