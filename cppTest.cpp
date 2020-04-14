@@ -13,4 +13,6 @@ int main(int argc,char** argv) {
 		return -1;
 	}
 	imshow("inputImage", src);
+	
+	test2;
 }
